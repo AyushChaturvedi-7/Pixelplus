@@ -9,7 +9,7 @@ body{
     height: 400px;
     width: 400px;
     border: 2px solid #c3c3c3;
-    border-color: black;
+    border-color: white;
     margin-left: 60px;
     /* align: centre; */
 }
@@ -23,12 +23,21 @@ body{
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 400;
+    color: white;
 }
+
 a{
-    font-size: 40px;
+    font-size: 20px;
     font-family: sans-serif;
-    background-color: black;
-    color: wheat;
+    background-color: white;
+    color: black;
     text-decoration: none;
     margin-left: 630px;
+    border-radius: 10px;
+    padding: 4px;
+    border: black solid 1px;
+}
+input{
+    margin-left: 100px;
+    border-radius: 10px;
 }
