@@ -367,6 +367,7 @@ input, button, textarea{
 .footer-text{
     margin-bottom: 1rem;
     text-decoration: underline;
+    padding-left: 20px;
     
 }
 .footer-text div p{
@@ -438,6 +439,7 @@ i{
     .footer-text{
         margin-bottom: 0;
         text-align: left;
+        padding-left: 10px;
     }
 }
 
